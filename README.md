@@ -8,7 +8,7 @@
         <li style="font-size: 15px; font-weight: 800;">Targeting Junior Developer roles with an organization of high repute with a scope of improving knowledge 
             and further career growth. </li>
         <li style="font-size: 15px; font-weight: 800;">MCA Student with a solid background in computer science and mathematics.</li>
-        <li style="font-size: 15px; font-weight: 800;">Proficient in Java, Python, C, Js with experience in MongoDB and MySQL.</li>
+        <li style="font-size: 15px; font-weight: 800;">Proficient in C++, Python, C, Js with experience in MongoDB and MySQL.</li>
         <li style="font-size: 15px; font-weight: 800;">Strong problem-solving skills, active on HackerRank and LeetCode.</li>
         <li style="font-size: 15px; font-weight: 800;">Worked on projects such as Authentication System, weather apps, and Employee Management System.</li>
         <li style="font-size: 15px; font-weight: 800;">Effective multitasker, leader, and collaborator with adaptability to dynamic environments.</li>
