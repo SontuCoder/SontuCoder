@@ -44,7 +44,7 @@ _October 2023 – March 2025_
 
 ## 🚀 Project: Expense Tracker (MERN)
 
-![Project Screenshot](1750827628341.jpg)
+<img src="1750827628341.jpg" alt="Project Screenshot" width= "300px;">
 
 A full-stack **Expense and Income tracker** web app built using MongoDB, Express.js, React, and Node.js.  
 Users can track their transactions with visual charts and summaries.
