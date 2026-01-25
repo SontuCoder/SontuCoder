@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Subhadip Maity</h1>
-<h3 align="center">An associate RPA (Robotic Process Automation) Developer || Aspiring MERN Developer</h3>
+<h3 align="center">An Associate RPA (Robotic Process Automation) Developer || Aspiring MERN Developer || FastAPI || Agentic Automation</h3>
 
 ---
 
 ## 💫 About Me
 
-- 🌱 I’m currently an associate RPA Developer at **Centelli India**
+- 🌱 I’m currently an Associate RPA Developer at **Centelli India**
 - 🎓 MCA graduate with a solid academic background in Computer Science and Mathematics
 - 🤖 Transitioning into **AI Automation** with growing interest in integrating AI with RPA
 - 📚 Learning **Machine Learning, Data Science, and Deep Learning**
-- 💻 Proficient in **C++, Python, C, JavaScript, React, ExpressJs**, MongoDB & MySQL
+- 💻 Proficient in **C++, Python, FastAPI, JavaScript, React, ExpressJs**, MongoDB & MySQL
 - 🧠 Strong problem-solving mindset — practicing regularly on **HackerRank** & **LeetCode**
 - 🤝 Efficient multitasker, proactive team player, and adaptable in fast-paced environments
 
@@ -39,6 +39,11 @@ _October 2023 – March 2025_
 ![Data Science](https://img.shields.io/badge/Data%20Science-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![UiPath](https://img.shields.io/badge/UiPath-%23FF6C37.svg?style=for-the-badge&logo=UiPath&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-FF6F00?style=for-the-badge&logo=automationanywhere&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+
 
 ---
 
@@ -53,6 +58,47 @@ Users can track their transactions with visual charts and summaries.
 🔗 [View Project on GitHub](https://github.com/SontuCoder/Expense-Tracker)
 
 ---
+
+<img src="Multi_Loan.png" alt="Project Screenshot" width= "300px;">
+
+## 🔹 Project: Multi-Document Loan Application Processor 
+
+**Multi-Document Loan Application Processor** is an AI-driven UiPath automation that processes loan applications containing multiple documents such as ID proofs, address proofs, payslips, and bank statements. It leverages Document Understanding with Human-in-the-Loop validation via Action Center to ensure high data accuracy and reliable loan creation through backend systems.
+
+---
+
+## ⚙️ Tech Stack
+
+- **UiPath Studio**
+- **UiPath Orchestrator**
+- **Document Understanding**
+- **Action Center**
+- **UiPath Apps**
+- **Orchestrator Queues**
+- **Orchestrator Storage Buckets**
+- **Email Automation**
+- **Data Fabric**
+
+---
+
+<img src="Password.png" alt="Project Screenshot" width= "300px;">
+
+## 🔹 Project: Password Reset Automation (UiPath)
+
+**Password Reset Automation** is a REFramework-based UiPath solution that automates employee password reset requests via email. It validates employee details against a database, generates and verifies temporary passwords, and securely updates new credentials in UiPath Data Fabric with full audit and exception handling.
+
+---
+
+## ⚙️ Tech Stack
+
+- **UiPath Studio**
+- **UiPath Orchestrator**
+- **REFramework**
+- **Email Automation**
+- **Regex-based Data Extraction**
+- **Database Integration**
+- **Temporary Credential Store**
+- **UiPath Data Fabric**
 
 ## 📊 GitHub Stats
 
